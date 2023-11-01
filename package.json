@@ -1,0 +1,8 @@
+{
+  "name": "instagram-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RedCappAcc/instagram-scrapper.git",
+  "author": "Temirlan Serikov <temirlan-s@auto.kz>",
+  "license": "MIT"
+}
